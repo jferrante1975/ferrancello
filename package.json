@@ -1,0 +1,26 @@
+{
+  "name": "ferrancello",
+
+  "version": "1.0.0",
+
+  "description": "Back end para aplicacion mobile de Ferrancello",
+
+  "main": "index.js",
+
+  "scripts": {
+    "test": "test"
+  },
+
+  "author": "Franco Ferrante",
+
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "express": "*",
+    "mongoose": "*",
+    "node-gcm":"*",
+    "body-parser":"*"
+ 
+  }
+
+}
