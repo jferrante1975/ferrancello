@@ -92,7 +92,7 @@ app.get('/precios', function (req, res) {
 
 app.get('/promociones', function (req, res) {
 	var promos = [];
-	promos.push({"texto":"Pedi dos conitos y llevate 3"});
+	promos.push({"texto":"Pedi dos conitos y llevate 3!!!"});
 	res.send({"promos":promos});
 });
 
