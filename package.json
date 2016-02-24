@@ -13,6 +13,7 @@
     "express": "*",
     "mongoose": "*",
     "node-gcm":"*",
-    "body-parser":"*"
+    "body-parser":"*",
+    "nodemailer":"*"
    }
 }
